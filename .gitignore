@@ -1,0 +1,10 @@
+# Default ignored files
+.idea
+venv
+datasets
+automated_test.ps1
+ML_Projects_2019.pdf
+scripts/__pycache__
+logs/
+extr/
+test.py
